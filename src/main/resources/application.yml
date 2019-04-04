@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: blocking-service
+
+logging:
+  level:
+    io:
+      codifica:
+        test:
+          simple:
+            blockingservice: INFO
